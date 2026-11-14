@@ -1,0 +1,16 @@
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Python cache
+_pycache_/
+*.pyc
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+
+# FAISS generated index (if not required in Git)
